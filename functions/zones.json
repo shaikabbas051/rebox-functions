@@ -1,0 +1,130 @@
+[
+    {
+        "label": "L.B. Nagar",
+        "key": "LBNAGAR",
+        "circle": [
+            {
+                "label": "KAPRA",
+                "key": "KAPRA",
+                "ward": [
+                    {
+                        "label": "MEERPETH B COLONY",
+                        "key": "MEERPETHBCOLONY"
+                    },
+                    {
+                        "label": "A.S Rao Nagar",
+                        "key": "ASRAONAGAR"
+                    },
+                    {
+                        "label": "Cherlapally",
+                        "key": "CHERLAPALY"
+                    },
+                    {
+                        "label": "Mallapur",
+                        "key": "MALLAPUR"
+                    },
+                    {
+                        "label": "Nacharam",
+                        "key": "NACHARAM"
+                    },
+                    {
+                        "label": "Kapra",
+                        "key": "KAPRA"
+                    }
+                ]
+            },
+            {
+                "label": "UPPAL",
+                "key": "UPPAL",
+                "ward": [
+                    {
+                        "label": "CHILKA NAGAR",
+                        "key": "CHILKANAGAR"
+                    },
+                    {
+                        "label": "HABSIGUDA",
+                        "key": "HABSIGUDA"
+                    },
+                    {
+                        "label": "RAMANTHAPUR",
+                        "key": "RAMANTHAPUR"
+                    },
+                    {
+                        "label": "UPPAL",
+                        "key": "UPPAL"
+                    }
+                ]
+            },
+            {
+                "label": "HAYATH NAGAR",
+                "key": "HAYATHNAGAR",
+                "ward": [
+                    {
+                        "label": "HAYATH NAGAR",
+                        "key": "HAYATHNAGAR"
+                    },
+                    {
+                        "label": "NAGOLE",
+                        "key": "NAGOLE"
+                    },
+                    {
+                        "label": "B.N REDDY NAGAR",
+                        "key": "BNREDDYNAGAR"
+                    },
+                    {
+                        "label": "MANSOORABAD",
+                        "key": "MANSOORABAD"
+                    }
+                ]
+            },
+            {
+                "label": "SAROOR NAGAR",
+                "key": "SAROORNAGAR",
+                "ward": [
+                    {
+                        "label": "SAROOR NAGAR",
+                        "key": "SAROORNAGAR"
+                    },
+                    {
+                        "label": "KOTHAPET",
+                        "key": "KOTHAPET"
+                    },
+                    {
+                        "label": "GADDIANNARAM",
+                        "key": "GADDIANNARAM"
+                    },
+                    {
+                        "label": "CHAITHANYAPURI",
+                        "key": "CHAITHANYAPURI"
+                    },
+                    {
+                        "label": "RK PURAM",
+                        "key": "RKPURAM"
+                    }
+                ]
+            },
+            {
+                "label": "LB NAGAR",
+                "key": "LBNAGAR",
+                "ward": [
+                    {
+                        "label": "VANASTHALIPURAM",
+                        "key": "VANASTHALIPURAM"
+                    },
+                    {
+                        "label": "HASTINAPURAM",
+                        "key": "HASTINAPURAM"
+                    },
+                    {
+                        "label": "CHAMPAPET",
+                        "key": "CHAMPAPET"
+                    },
+                    {
+                        "label": "LINGOJIGUDA",
+                        "key": "LINGOJIGUDA"
+                    }
+                ]
+            }
+        ]
+    }
+]

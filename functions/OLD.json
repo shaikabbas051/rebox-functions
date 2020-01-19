@@ -1,0 +1,221 @@
+{
+    "LBNAGAR": {
+        "KAPRA": [
+            "KAPRA",
+            "ASRAONAGAR",
+            "CHERLAPALLY",
+            "MEERPETHBCOLONY",
+            "MALLAPUR",
+            "NACHARAM"
+        ],
+        "UPPAL": [
+            "CHILUKANAGAR",
+            "HABSIGUDA",
+            "RAMANTHPUR",
+            "UPPAL"
+        ],
+        "HAYATHNAGAR": [
+            "NAGOLE",
+            "MANSOORABAD",
+            "HAYATHNAGAR",
+            "BNREDDYNAGAR"
+        ],
+        "LBNAGAR": [
+            "VANASTHALIPURAM",
+            "HASTINAPURAM",
+            "CHAMPAPET",
+            "LINGOJIGUDA"
+        ],
+        "SAROORNAGAR": [
+            "SAROORNAGAR",
+            "RKPURAM",
+            "KOTHAPET",
+            "CHAITHANYAPURI",
+            "GADDIANNARAM"
+        ]
+    },
+    "CHARMINAR": {
+        "MALAKPET": [
+            "SAIDABAD",
+            "MOOSARAMBAGH",
+            "OLDMALAKPET",
+            "AKBERBAGH",
+            "AZAMPURA",
+            "CHAWANI",
+            "DABEERPURA"
+        ],
+        "SANTHOSHNAGAR": [
+            "REINBAZAR",
+            "TALABCHANCHALAM",
+            "GOWLIPURA",
+            "KURMAGUDA",
+            "ISSADAN",
+            "SANTHOSHNAGAR"
+        ],
+        "CHANDRAYANGUTTA": [
+            "LALITHABAGH",
+            "RIYASATHNAGAR",
+            "KANCHANBAGH",
+            "BARKAS",
+            "CHANDRAYANGUTTA",
+            "UPPUGUDA",
+            "JANGAMPET"
+        ],
+        "CHARMINAR": [
+            "PATHERGATTI",
+            "MOGHALPURA",
+            "SHALIBANDA",
+            "GHANSIBAZAR",
+            "PURANAPUL"
+        ],
+        "FALAKNAMA": [
+            "FALAKNAMA",
+            "NAWABSAHEBKUNTA",
+            "DOODBOWLI",
+            "JAHANUMA",
+            "RAMNASTURAPURA",
+            "KISHANBAGH"
+        ],
+        "RAJENDRANAGAR": [
+            "RAJENDRANAGAR",
+            "ATTAPUR",
+            "SULEMANNAGAR",
+            "SHASTRIPURAM",
+            "MAILARADEVIPALLY"
+        ]
+    },
+    "KHAIRATHABAD": {
+        "MEHDIPATNAM": [
+            "MEHDIPATNAM",
+            "GUDDIMALAKAPUR",
+            "ASIFNAGAR",
+            "VIJAYNAGARCOLONY",
+            "AHMEDNAGAR",
+            "REDHILLS",
+            "MALLEPALLY"
+        ],
+        "KARWAN": [
+            "ZIAGUDA",
+            "KARWAN",
+            "LUNGERHOUSE",
+            "GOLCONDA",
+            "TOLICHOWKI",
+            "NANALNAGAR"
+        ],
+        "GOSHAMAHAL": [
+            "BEGUMBAZAR",
+            "GOSHAMAHAL",
+            "MANGALHAT",
+            "DATTATRYANAGAR",
+            "JAMBAGH(NANMPALLY)",
+            "GUNFOUNDARY\n(ABIDS)"
+        ],
+        "KHAIRATABAD": [
+            "KHAIRATABAD",
+            "SOMAJIGUDA",
+            "AMEERPET",
+            "SANATHNAGAR"
+        ],
+        "JUBILEEHILLS": [
+            "VENKATESHWARACOLONY",
+            "BANJARAHILLS",
+            "SHAIPET",
+            "JUBILEEHILLS"
+        ]
+    },
+    "SECUNDERABAD": {
+        "MUSHEERABAD": [
+            "ADIKMET",
+            "MUSHEERABAD",
+            "RAMNAGAR",
+            "BHOLAKPUR",
+            "GANDHINAGAR",
+            "KAVADIGUDA"
+        ],
+        "AMBERPET": [
+            "HIMAYATHNAGAR",
+            "KACHIGUDA(BARKATHPURA)",
+            "NALLAKUNTA",
+            "GOLNAKA",
+            "AMBERPET",
+            "BAGHAMBERPET"
+        ],
+        "MALKAJIGIRI": [
+            "NEREDMET",
+            "VINAYAKANGR",
+            "MOULA-ALI",
+            "EASTANANDBAGH",
+            "MALKAJIGIRI",
+            "GOWTHAMNGR"
+        ],
+        "SECUNDERABAD": [
+            "ADDAGUTTA",
+            "TARANAKA",
+            "METTIGUDA",
+            "SEETHAPHALMANDI",
+            "BOUDHANAGAR"
+        ],
+        "BEGUMPET": []
+    },
+    "SERILINGAMPALLY": {
+        "YOUSUFGUDA": [
+            "YOUSUFGUDA",
+            "VENGALRAONAGAR",
+            "ERRAGADDA",
+            "RAHMATHNAGAR",
+            "BORABANDA"
+        ],
+        "SERLINGAMPALLY": [
+            "KONDAPUR",
+            "GACHIBOWLI",
+            "SERLINGAMPALLY",
+            "BHARATHINAGAR"
+        ],
+        "CHANDANAGAR": [
+            "MADHAPUR",
+            "MIYAPUR",
+            "HAFEEZPET",
+            "CHANDANAGAR"
+        ],
+        "RAMCHANDRAPURAMPATANCHERUVU": [],
+        "RAMCHANDRAPURAM&PATANCHERUVU": [
+            "BHARATHINAGAR",
+            "RCPURAM",
+            "PATANCHERUVU"
+        ]
+    },
+    "KUKATPALLY": {
+        "MOOSAPET": [
+            "KPHBCOLONY",
+            "BALAJINAGAR",
+            "ALLAPUR",
+            "MOOSAPET",
+            "FATHENAGAR"
+        ],
+        "KUKATPALLY": [
+            "OLDBOWENPALLY",
+            "BALANAGAR",
+            "KUKATAPALLY",
+            "VIVEKANANDANAGARCOLONY",
+            "HYDERNAGAR",
+            "ALLWYNCOLONY"
+        ],
+        "QUTHUBULLAPUR": [
+            "RANGAREDDYNGR",
+            "SUBHASHNGR",
+            "QUTHUBULLAPUR",
+            "JEEDIMETLA"
+        ],
+        "GAJULARAMARAM": [
+            "GAJULARAMARAM",
+            "JAGADGIRIGUTTA",
+            "CHINTAL",
+            "SURARAM"
+        ],
+        "ALWAL": [
+            "MACHABOLARAM",
+            "ALWAL",
+            "VENKATAPURAM"
+        ]
+    }
+}
