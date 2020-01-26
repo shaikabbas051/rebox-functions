@@ -126,5 +126,457 @@
                 ]
             }
         ]
+    },
+    {
+        "label": "CHARMINAR",
+        "key": "CHARMINAR",
+        "circle": [
+            {
+                "label": "MALAKPET",
+                "key": "MALAKPET",
+                "ward": [
+                    {
+                        "label": "SAIDABAD",
+                        "key": "SAIDABAD"
+                    },
+                    {
+                        "label": "MOOSARAMBAGH",
+                        "key": "MOOSARAMBAGH"
+                    },
+                    {
+                        "label": "OLDMALAKPET",
+                        "key": "OLDMALAKPET"
+                    },
+                    {
+                        "label": "AKBERBAGH",
+                        "key": "AKBERBAGH"
+                    },
+                    {
+                        "label": "AZAMPURA",
+                        "key": "AZAMPURA"
+                    },
+                    {
+                        "label": "CHAWANI",
+                        "key": "CHAWANI"
+                    },
+                    {
+                        "label": "DABEERPURA",
+                        "key": "DABEERPURA"
+                    }
+                ]
+            },
+            {
+                "label": "SANTHOSHNAGAR",
+                "key": "SANTHOSHNAGAR",
+                "ward": [
+                    {
+                        "label": "REINBAZAR",
+                        "key": "REINBAZAR"
+                    },
+                    {
+                        "label": "TALABCHANCHALAM",
+                        "key": "TALABCHANCHALAM"
+                    },
+                    {
+                        "label": "GOWLIPURA",
+                        "key": "GOWLIPURA"
+                    },
+                    {
+                        "label": "KURMAGUDA",
+                        "key": "KURMAGUDA"
+                    },
+                    {
+                        "label": "ISSADAN",
+                        "key": "ISSADAN"
+                    },
+                    {
+                        "label": "SANTHOSHNAGAR",
+                        "key": "SANTHOSHNAGAR"
+                    }
+                ]
+            },
+            {
+                "label": "CHANDRAYANGUTTA",
+                "key": "CHANDRAYANGUTTA",
+                "ward": [
+                    {
+                        "label": "LALITHABAGH",
+                        "key": "LALITHABAGH"
+                    },
+                    {
+                        "label": "RIYASATHNAGAR",
+                        "key": "RIYASATHNAGAR"
+                    },
+                    {
+                        "label": "KANCHANBAGH",
+                        "key": "KANCHANBAGH"
+                    },
+                    {
+                        "label": "BARKAS",
+                        "key": "BARKAS"
+                    },
+                    {
+                        "label": "CHANDRAYANGUTTA",
+                        "key": "CHANDRAYANGUTTA"
+                    },
+                    {
+                        "label": "UPPUGUDA",
+                        "key": "UPPUGUDA"
+                    },
+                    {
+                        "label": "JANGAMPET",
+                        "key": "JANGAMPET"
+                    }
+                ]
+            },
+            {
+                "label": "CHARMINAR",
+                "key": "CHARMINAR",
+                "ward": [
+                    {
+                        "label": "PATHERGATTI",
+                        "key": "PATHERGATTI"
+                    },
+                    {
+                        "label": "MOGHALPURA",
+                        "key": "MOGHALPURA"
+                    },
+                    {
+                        "label": "SHALIBANDA",
+                        "key": "SHALIBANDA"
+                    },
+                    {
+                        "label": "GHANSIBAZAR",
+                        "key": "GHANSIBAZAR"
+                    },
+                    {
+                        "label": "PURANAPUL",
+                        "key": "PURANAPUL"
+                    }
+                ]
+            },
+            {
+                "label": "FALAKNAMA",
+                "key": "FALAKNAMA",
+                "ward": [
+                    {
+                        "label": "FALAKNAMA",
+                        "key": "FALAKNAMA"
+                    },
+                    {
+                        "label": "NAWABSAHEBKUNTA",
+                        "key": "NAWABSAHEBKUNTA"
+                    },
+                    {
+                        "label": "DOODBOWLI",
+                        "key": "DOODBOWLI"
+                    },
+                    {
+                        "label": "JAHANUMA",
+                        "key": "JAHANUMA"
+                    },
+                    {
+                        "label": "RAMNASTURAPURA",
+                        "key": "RAMNASTURAPURA"
+                    },
+                    {
+                        "label": "KISHANBAGH",
+                        "key": "KISHANBAGH"
+                    }
+                ]
+            },
+            {
+                "label": "RAJENDRANAGAR",
+                "key": "RAJENDRANAGAR",
+                "ward": [
+                    {
+                        "label": "RAJENDRANAGAR",
+                        "key": "RAJENDRANAGAR"
+                    },
+                    {
+                        "label": "ATTAPUR",
+                        "key": "ATTAPUR"
+                    },
+                    {
+                        "label": "SULEMANNAGAR",
+                        "key": "SULEMANNAGAR"
+                    },
+                    {
+                        "label": "SHASTRIPURAM",
+                        "key": "SHASTRIPURAM"
+                    },
+                    {
+                        "label": "MAILARADEVIPALLY",
+                        "key": "MAILARADEVIPALLY"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "KHAIRATHABAD",
+        "key": "KHAIRATHABAD",
+        "circle": [
+            {
+                "label": "MEHDIPATNAM",
+                "key": "MEHDIPATNAM",
+                "ward": [
+                    {
+                        "label": "MEHDIPATNAM",
+                        "key": "MEHDIPATNAM"
+                    },
+                    {
+                        "label": "GUDDIMALAKAPUR",
+                        "key": "GUDDIMALAKAPUR"
+                    },
+                    {
+                        "label": "ASIFNAGAR",
+                        "key": "ASIFNAGAR"
+                    },
+                    {
+                        "label": "VIJAYNAGARCOLONY",
+                        "key": "VIJAYNAGARCOLONY"
+                    },
+                    {
+                        "label": "AHMEDNAGAR",
+                        "key": "AHMEDNAGAR"
+                    },
+                    {
+                        "label": "REDHILLS",
+                        "key": "REDHILLS"
+                    },
+                    {
+                        "label": "MALLEPALLY",
+                        "key": "MALLEPALLY"
+                    }
+                ]
+            },
+            {
+                "label": "KARWAN",
+                "key": "KARWAN",
+                "ward": [
+                    {
+                        "label": "ZIAGUDA",
+                        "key": "ZIAGUDA"
+                    },
+                    {
+                        "label": "KARWAN",
+                        "key": "KARWAN"
+                    },
+                    {
+                        "label": "LUNGERHOUSE",
+                        "key": "LUNGERHOUSE"
+                    },
+                    {
+                        "label": "GOLCONDA",
+                        "key": "GOLCONDA"
+                    },
+                    {
+                        "label": "TOLICHOWKI",
+                        "key": "TOLICHOWKI"
+                    },
+                    {
+                        "label": "NANALNAGAR",
+                        "key": "NANALNAGAR"
+                    }
+                ]
+            },
+            {
+                "label": "GOSHAMAHAL",
+                "key": "GOSHAMAHAL",
+                "ward": [
+                    {
+                        "label": "BEGUMBAZAR",
+                        "key": "BEGUMBAZAR"
+                    },
+                    {
+                        "label": "GOSHAMAHAL",
+                        "key": "GOSHAMAHAL"
+                    },
+                    {
+                        "label": "MANGALHAT",
+                        "key": "MANGALHAT"
+                    },
+                    {
+                        "label": "DATTATRYANAGAR",
+                        "key": "DATTATRYANAGAR"
+                    },
+                    {
+                        "label": "JAMBAGH(NANMPALLY)",
+                        "key": "JAMBAGH(NANMPALLY)"
+                    },
+                    {
+                        "label": "GUNFOUNDARY\n(ABIDS)",
+                        "key": "GUNFOUNDARY\n(ABIDS)"
+                    }
+                ]
+            },
+            {
+                "label": "KHAIRATABAD",
+                "key": "KHAIRATABAD",
+                "ward": [
+                    {
+                        "label": "KHAIRATABAD",
+                        "key": "KHAIRATABAD"
+                    },
+                    {
+                        "label": "SOMAJIGUDA",
+                        "key": "SOMAJIGUDA"
+                    },
+                    {
+                        "label": "AMEERPET",
+                        "key": "AMEERPET"
+                    },
+                    {
+                        "label": "SANATHNAGAR",
+                        "key": "SANATHNAGAR"
+                    }
+                ]
+            },
+            {
+                "label": "JUBILEEHILLS",
+                "key": "JUBILEEHILLS",
+                "ward": [
+                    {
+                        "label": "VENKATESHWARACOLONY",
+                        "key": "VENKATESHWARACOLONY"
+                    },
+                    {
+                        "label": "BANJARAHILLS",
+                        "key": "BANJARAHILLS"
+                    },
+                    {
+                        "label": "SHAIPET",
+                        "key": "SHAIPET"
+                    },
+                    {
+                        "label": "JUBILEEHILLS",
+                        "key": "JUBILEEHILLS"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "label": "SECUNDERABAD",
+        "key": "SECUNDERABAD",
+        "circle": [
+            {
+                "label": "MUSHEERABAD",
+                "key": "MUSHEERABAD",
+                "ward": [
+                    {
+                        "label": "ADIKMET",
+                        "key": "ADIKMET"
+                    },
+                    {
+                        "label": "MUSHEERABAD",
+                        "key": "MUSHEERABAD"
+                    },
+                    {
+                        "label": "RAMNAGAR",
+                        "key": "RAMNAGAR"
+                    },
+                    {
+                        "label": "BHOLAKPUR",
+                        "key": "BHOLAKPUR"
+                    },
+                    {
+                        "label": "GANDHINAGAR",
+                        "key": "GANDHINAGAR"
+                    },
+                    {
+                        "label": "KAVADIGUDA",
+                        "key": "KAVADIGUDA"
+                    }
+                ]
+            },
+            {
+                "label": "AMBERPET",
+                "key": "AMBERPET",
+                "ward": [
+                    {
+                        "label": "HIMAYATHNAGAR",
+                        "key": "HIMAYATHNAGAR"
+                    },
+                    {
+                        "label": "KACHIGUDA(BARKATHPURA)",
+                        "key": "KACHIGUDA(BARKATHPURA)"
+                    },
+                    {
+                        "label": "NALLAKUNTA",
+                        "key": "NALLAKUNTA"
+                    },
+                    {
+                        "label": "GOLNAKA",
+                        "key": "GOLNAKA"
+                    },
+                    {
+                        "label": "AMBERPET",
+                        "key": "AMBERPET"
+                    },
+                    {
+                        "label": "BAGHAMBERPET",
+                        "key": "BAGHAMBERPET"
+                    }
+                ]
+            },
+            {
+                "label": "MALKAJIGIRI",
+                "key": "MALKAJIGIRI",
+                "ward": [
+                    {
+                        "label": "NEREDMET",
+                        "key": "NEREDMET"
+                    },
+                    {
+                        "label": "VINAYAKANGR",
+                        "key": "VINAYAKANGR"
+                    },
+                    {
+                        "label": "MOULA-ALI",
+                        "key": "MOULA-ALI"
+                    },
+                    {
+                        "label": "EASTANANDBAGH",
+                        "key": "EASTANANDBAGH"
+                    },
+                    {
+                        "label": "MALKAJIGIRI",
+                        "key": "MALKAJIGIRI"
+                    },
+                    {
+                        "label": "GOWTHAMNGR",
+                        "key": "GOWTHAMNGR"
+                    }
+                ]
+            },
+            {
+                "label": "SECUNDERABAD",
+                "key": "SECUNDERABAD",
+                "ward": [
+                    {
+                        "label": "ADDAGUTTA",
+                        "key": "ADDAGUTTA"
+                    },
+                    {
+                        "label": "TARANAKA",
+                        "key": "TARANAKA"
+                    },
+                    {
+                        "label": "METTIGUDA",
+                        "key": "METTIGUDA"
+                    },
+                    {
+                        "label": "SEETHAPHALMANDI",
+                        "key": "SEETHAPHALMANDI"
+                    },
+                    {
+                        "label": "BOUDHANAGAR",
+                        "key": "BOUDHANAGAR"
+                    }
+                ]
+            }
+        ]
     }
 ]

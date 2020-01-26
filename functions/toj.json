@@ -1,0 +1,122 @@
+{
+    "label": "SECUNDERABAD",
+    "key": "SECUNDERABAD",
+    "circle": [
+        {
+            "label": "MUSHEERABAD",
+            "key": "MUSHEERABAD",
+            "ward": [
+                {
+                    "label": "ADIKMET",
+                    "key": "ADIKMET"
+                },
+                {
+                    "label": "MUSHEERABAD",
+                    "key": "MUSHEERABAD"
+                },
+                {
+                    "label": "RAMNAGAR",
+                    "key": "RAMNAGAR"
+                },
+                {
+                    "label": "BHOLAKPUR",
+                    "key": "BHOLAKPUR"
+                },
+                {
+                    "label": "GANDHINAGAR",
+                    "key": "GANDHINAGAR"
+                },
+                {
+                    "label": "KAVADIGUDA",
+                    "key": "KAVADIGUDA"
+                }
+            ]
+        },
+        {
+            "label": "AMBERPET",
+            "key": "AMBERPET",
+            "ward": [
+                {
+                    "label": "HIMAYATHNAGAR",
+                    "key": "HIMAYATHNAGAR"
+                },
+                {
+                    "label": "KACHIGUDA(BARKATHPURA)",
+                    "key": "KACHIGUDA(BARKATHPURA)"
+                },
+                {
+                    "label": "NALLAKUNTA",
+                    "key": "NALLAKUNTA"
+                },
+                {
+                    "label": "GOLNAKA",
+                    "key": "GOLNAKA"
+                },
+                {
+                    "label": "AMBERPET",
+                    "key": "AMBERPET"
+                },
+                {
+                    "label": "BAGHAMBERPET",
+                    "key": "BAGHAMBERPET"
+                }
+            ]
+        },
+        {
+            "label": "MALKAJIGIRI",
+            "key": "MALKAJIGIRI",
+            "ward": [
+                {
+                    "label": "NEREDMET",
+                    "key": "NEREDMET"
+                },
+                {
+                    "label": "VINAYAKANGR",
+                    "key": "VINAYAKANGR"
+                },
+                {
+                    "label": "MOULA-ALI",
+                    "key": "MOULA-ALI"
+                },
+                {
+                    "label": "EASTANANDBAGH",
+                    "key": "EASTANANDBAGH"
+                },
+                {
+                    "label": "MALKAJIGIRI",
+                    "key": "MALKAJIGIRI"
+                },
+                {
+                    "label": "GOWTHAMNGR",
+                    "key": "GOWTHAMNGR"
+                }
+            ]
+        },
+        {
+            "label": "SECUNDERABAD",
+            "key": "SECUNDERABAD",
+            "ward": [
+                {
+                    "label": "ADDAGUTTA",
+                    "key": "ADDAGUTTA"
+                },
+                {
+                    "label": "TARANAKA",
+                    "key": "TARANAKA"
+                },
+                {
+                    "label": "METTIGUDA",
+                    "key": "METTIGUDA"
+                },
+                {
+                    "label": "SEETHAPHALMANDI",
+                    "key": "SEETHAPHALMANDI"
+                },
+                {
+                    "label": "BOUDHANAGAR",
+                    "key": "BOUDHANAGAR"
+                }
+            ]
+        }
+    ]
+}
